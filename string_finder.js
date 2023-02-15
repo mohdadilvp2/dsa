@@ -40,3 +40,4 @@ const findStr = (array, string) => {
     return longestString;
 }
 console.log(findStr(["ale", "apple", "monkey", "plea"], "abpcplea"));
+console.log(findStr(["pintu", "geeksfor", "geeksgeeks", " forgeek"], 'geeksforgeeks'));
